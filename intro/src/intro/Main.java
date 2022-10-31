@@ -14,7 +14,7 @@ public class Main {
         int vade = 12;
 
         double dolarDun = 18.25;
-        double dolarBugun = 18.32;
+        double dolarBugun = 18.30;
 
         boolean dolarDustuMu = false;
 
