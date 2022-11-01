@@ -11,7 +11,7 @@ import oopWithNLayeredApp.entities.Product;
 public class Main {
 
 	public static void main(String[] args) throws Exception {
-		Product product1 = new Product(1,"iphone xr", 1000);
+		Product product1 = new Product(1,"Iphone xr", 1000);
 		
 		Logger[] loggers = {new DatabaseLogger(), new FileLogger(), new MailLogger()};
 		
